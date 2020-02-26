@@ -26,7 +26,11 @@ class  Employe extends CalculSalaire{
    
    //On peux redefinir la methode calculSalaire() en cas de changement avec
    @Override
-   public double calculSalire(){ //Définition de la nouvelle methode }
+   public double calculSalire()
+   { 
+        //Définition de la nouvelle methode
+   
+   }
    
    public void afficheCoordonnees(){ System.out.println(nom+ " , "+adresse;}
    
